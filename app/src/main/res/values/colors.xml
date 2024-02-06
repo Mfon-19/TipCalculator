@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header_color">#424A15</color>
+    <color name="back_color">#CCBD91</color>
+    <color name="texts_color">#798342</color>
+    <color name="poorTip">#DF0E0E</color>
+    <color name="acceptableTip">#FF6F00</color>
+    <color name="goodTip">#5AA15D</color>
+    <color name="amazingTip">#005A04</color>
+</resources>

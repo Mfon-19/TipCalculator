@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="base">Base</string>
+    <string name="tip">Tip</string>
+    <string name="tipPercent">15%</string>
+    <string name="total">Total</string>
+    <string name="hint">Enter a dollar amount</string>
+    <string name="poorTip">Poor</string>
+    <string name="acceptableTip">Acceptable</string>
+    <string name="goodTip">Good</string>
+    <string name="amazingTip">Amazing</string>
+    <string name="author">MADE BY MFON UDOH</string>
+</resources>
